@@ -1,4 +1,4 @@
-![image](https://github.com/mengyao72/UMMFF/assets/133936932/fb5c6161-b8a5-49d7-a31e-cb5dccd8318a)# UMMFF
+# UMMFF
 
 This is the source code of the paper and the pytorch framework is used to build model. At here, you can get more information about the paper.
 
