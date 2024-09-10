@@ -27,4 +27,5 @@ Sun Y, Dong L, Huang S, et al. Retentive network: A successor to transformer for
 
 Li J, Li Y, Wang C, et al. Busifusion: Blind unsupervised single image fusion of hyperspectral and rgb images[J]. IEEE Transactions on Computational Imaging, 2023, 9: 94-105.
 
+Wang X, Wang X, Song R, et al. MCT-Net: Multi-hierarchical cross transformer for hyperspectral and multispectral image fusion[J]. Knowledge-Based Systems, 2023, 264: 110362.
 
