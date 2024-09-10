@@ -21,4 +21,7 @@ you can download Washington DC, Salinas and Botawana dataset at here [Washington
 Thank you to the following authors for their contributions.
 
 Liu, J.; Wu, Z.; Xiao, L.; Wu, X.-J. Model inspired autoencoder for unsupervised hyperspectral image super-resolution. IEEE Transactions on Geoscience and Remote Sensing, 2022, 60, 1-12.
+Sun Y, Dong L, Huang S, et al. Retentive network: A successor to transformer for large language models[J]. arXiv preprint arXiv:2307.08621, 2023.
+Li J, Li Y, Wang C, et al. Busifusion: Blind unsupervised single image fusion of hyperspectral and rgb images[J]. IEEE Transactions on Computational Imaging, 2023, 9: 94-105.
+
 
