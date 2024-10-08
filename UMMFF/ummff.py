@@ -1,6 +1,4 @@
-# Model Inspired Autoencoder for Unsupervised Hyperspectral Image Superresolution, TGRS
-# Author: JianJun Liu
-# Date: 2022-1-13
+
 
 import scipy.io as sio
 import os
