@@ -1,6 +1,4 @@
-# BlindTest estimation network
-# Author: JianJun Liu
-# Date: 2022-1-13
+
 import numpy as np
 import scipy.io as sio
 import torch
